@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  margin: 3rem 10rem;
+  margin-top: 4rem;
+  width: 90%;
 `;
 
 export const Header = styled.div`
@@ -44,11 +45,12 @@ export const Option = styled.a`
   border-radius: 5px;
   &:hover {
     background-color: rgba(0, 0, 0, 0.1);
+    cursor: pointer;
   }
 `;
 
 export const Content = styled.div`
-  margin-top: 2rem;
+  margin: 10rem 0;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -71,6 +73,7 @@ export const CardHeader = styled.h1`
 `;
 
 export const CardContent = styled.p`
+  margin: 1.5rem 0;
   font-size: 0.98rem;
   font-family: sans-serif;
   font-weight: 300;
@@ -100,6 +103,7 @@ export const Button = styled.a`
     );
     color: black;
     border: 1px solid grey;
+    cursor: pointer;
   }
 `;
 
@@ -113,7 +117,6 @@ export const Footer = styled.div`
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin-top: 6rem;
 `;
 
 export const Social = styled.div`
