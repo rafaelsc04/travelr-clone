@@ -1,11 +1,15 @@
 # travelr
 
-Usando ReactJS e Styled Components, clonei o protótipo de uma homepage encontrada no [dribble].
+Neste projeto, desenvolvi habilidades para criar e estilizar componentes React através da biblioteca styled-components.
+
+In this project, I learned how to create and style React components using styled-components library.
 
 ![Imagem de como ficou](./md/final_img.png)
 
-[Template da página no dribble]
+[Template da página no Dribble]
 
-[Template da página no dribble]: https://dribbble.com/shots/15212968-travelr-concept-design
+[Page template on Dribble]
 
-[dribble]:https://dribbble.com/
+[Page template on Dribble]: https://dribbble.com/shots/15212968-travelr-concept-design
+
+[Template da página no Dribble]: https://dribbble.com/shots/15212968-travelr-concept-design
